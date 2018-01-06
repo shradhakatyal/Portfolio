@@ -1,0 +1,125 @@
+@import url(css/links.css);
+
+body {
+	color: steelblue;
+	background-color: white;
+	padding-top: 80px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+h1 {
+	text-align: right;
+	margin-bottom: 10px;
+
+}
+
+h2 {
+	color: #1d3549;
+
+}
+
+h3 {
+	text-align: center;
+	color: #2b506e;
+
+}
+
+h4 {
+	color: #2b506e;
+
+}
+
+a {
+	outline: none;
+
+}
+
+a:hover {
+	text-decoration: none;
+
+}
+
+p a { 
+	font-size: 16px;
+
+}
+
+footer {
+	text-align: center;
+	margin-top: 10px;
+
+}
+
+img {
+	margin-top: 30px;
+
+}
+
+section img:hover {
+	transform: scale(1.2);
+
+}
+
+article {
+	font-size: 20px;
+
+}
+
+ul {
+	font-size: 20px;
+	list-style-type: square;
+
+}
+
+button {
+	line-height: 20px;
+
+}
+
+section {
+	padding-top: 20px;
+
+}
+
+li a {
+	color: white;
+
+}
+
+section h3 {
+	text-align: left;
+
+}
+
+.navbar {
+	border-radius: 0;
+	border: none;
+	background-color: #01003F;
+	color: white;
+
+}
+
+.glyphicon-user {
+	font-size: 40px;
+	text-align: center;
+	line-height: 20px;
+	color: white;
+
+}
+
+.divider {
+	border: 2px solid black;
+	margin-top: 20px;
+
+}
+
+.fa:hover {
+	color: black;
+
+}
+
+.nav-pills {
+	padding-left: 100px;
+	
+}
